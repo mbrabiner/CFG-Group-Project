@@ -57,11 +57,11 @@ To run the game, ensure you have the following dependencies installed:
 6. When all lives are lost there is a 'game over' screen with your high score, to play again press Enter
 7. To exit the game press the red 'x' in the top left-hand corner of the screen
 
+![1](https://github.com/user-attachments/assets/385ae5b9-482c-433c-bb96-dae785e3dbff)
 
-![welcome](https://github.com/user-attachments/assets/72e638db-cac2-4dfa-bd6d-4b848501ee91)
-![game](https://github.com/user-attachments/assets/b75d094e-5c00-4ae6-be49-bd9b74c26d89)
-![gameover](https://github.com/user-attachments/assets/4d9466de-3e6a-408b-976e-e4175dc5f1e6)
+![2](https://github.com/user-attachments/assets/17ea73d3-38ba-41a4-a149-8fd0fa055863)
 
+![3](https://github.com/user-attachments/assets/e9d2ea10-5618-402c-b306-ee96d3ac9121)
 
 
 # Credits
